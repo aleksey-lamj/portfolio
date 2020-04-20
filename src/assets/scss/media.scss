@@ -1,0 +1,84 @@
+@media screen and(max-width: 992px) {
+  .landing-about {
+    .about {
+      &-text {
+        width: 100%;
+      }
+      &-photo {
+        width: 100%;
+      }
+    }
+  }
+  .projects--item {
+    width: 100%;
+    .info-wrap {
+      height: auto;
+      max-height: 100%;
+      img {
+        height: auto;
+      }
+    }
+  }
+}
+@media screen and(max-width: 768px) {
+  .socials-wrap a {
+    width: 60px;
+    height: 60px;
+  }
+}
+@media screen and(max-width: 480px) {
+  .f-size {
+    font-size: 24px;
+  }
+  .landing-header {
+    h1,
+    h3 {
+      font-size: 35px;
+    }
+  }
+  .landing-about {
+    margin: 50px 0 0 0;
+    .about {
+      &-me {
+        font-size: 35px;
+      }
+    }
+  }
+  .socials-wrap a {
+    width: 40px;
+    height: 40px;
+  }
+  .projects--item {
+    margin: 25px 0;
+    h3 {
+      font-size: 25px;
+    }
+  }
+}
+
+@media screen and(max-width: 320px) {
+  .f-size {
+    font-size: 20px;
+  }
+  .landing-header {
+    h1,
+    h3 {
+      font-size: 23px;
+    }
+  }
+  .landing-about {
+    margin: 20px 0 0 0;
+    .about {
+      &-me {
+        font-size: 25px;
+      }
+    }
+  }
+  .socials-wrap a {
+    width: 30px;
+    height: 30px;
+  }
+  .projects--item h3 {
+    font-size: 20px;
+  }
+}
