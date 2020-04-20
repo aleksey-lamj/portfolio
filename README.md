@@ -1,6 +1,6 @@
 # Портфолио
 [Смотреть](https://aleksey-kaa.github.io/portfolio/)  
-[Открыть в pdf](https://drive.google.com/open?id=1AO7jNy4-R8jaMHcS-e841RtQqtS05TJV)
+[Открыть в pdf](https://drive.google.com/open?id=1HqjQek_FeB2P8Mub137k3qIPQ1imMM0A)
 
 ## Проекты 
 * [React pizza](https://github.com/aleksey-kaa/react-pizza)
