@@ -11,6 +11,7 @@
 ## Проекты 
 * [React pizza](https://github.com/aleksey-kaa/react-pizza)
 * [Sea battle](https://github.com/aleksey-kaa/sea-battle)
+* [Sea battle](https://github.com/aleksey-kaa/react-todo-list)
 * [Card validate](https://github.com/aleksey-kaa/card-validate)
 * [Shape up](https://github.com/aleksey-kaa/shape-up)
 * [React shop](https://github.com/aleksey-kaa/react-shop)
