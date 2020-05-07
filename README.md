@@ -9,6 +9,7 @@
 
 Я считаю за веб-разработкой будущее.
 ## Проекты 
+* [Task manager](https://github.com/aleksey-kaa/task-manager)
 * [React pizza](https://github.com/aleksey-kaa/react-pizza)
 * [Sea battle](https://github.com/aleksey-kaa/sea-battle)
 * [React to do list](https://github.com/aleksey-kaa/react-todo-list)
