@@ -1,6 +1,6 @@
 # Портфолио
 [Смотреть](https://aleksey-kaa.github.io/portfolio/)  
-[Открыть в pdf](https://drive.google.com/open?id=1HqjQek_FeB2P8Mub137k3qIPQ1imMM0A)
+[Открыть в pdf](https://drive.google.com/open?id=1ZCvmTrl6Jqut4aTu5PdylfdWkgbx7t1i)
 
 ## Обо мне 
 В разработке мне интересно создание и проектирование интерфейсов, процесс написания кода и, конечно же, удовлетворение от решения сложных задач.
